@@ -26,6 +26,12 @@ These challenges lead to **decision fatigue** and reduced confidence.
 
 ---
 
+## 🔗 Official Website
+To learn more about Flash AI and explore the product directly:
+
+🌐 https://flash.co/
+
+---
 ## 🧠 How Flash AI Uses AI
 Flash AI addresses these challenges by acting as a **decision-support system** rather than a conversational assistant.This approach prioritizes clarity and relevance over interaction.
 
@@ -66,3 +72,9 @@ This reinforces the idea that **usefulness matters more than complexity**.
 This write-up is part of a broader learning initiative focused on exploring **AI tools and applications one at a time**.
 The goal is clarity and practical understanding.  
 
+## 🔗 Official Website
+To learn more about Flash AI and explore the product directly:
+
+🌐 https://flash.co/
+
+---
