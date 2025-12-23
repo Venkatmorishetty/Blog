@@ -16,6 +16,8 @@ Instead, the system follows two key steps:
 
 In simple terms:
 > **RAG = Retrieve information first, then generate the answer**
+> **RAG = Search + Reasoning + Generation**
+
 
 This allows GenAI systems to work with **real, up-to-date, and trusted data**.
 
@@ -42,6 +44,17 @@ RAG addresses these limitations by:
 - 🔄 Allowing updates without retraining the model  
 
 This enables GenAI systems to produce answers that are **context-aware, traceable, and more trustworthy**.
+
+---
+
+## 🌱 Why RAG Matters in Practice
+RAG is widely used in:
+- Document Q&A systems  
+- Internal knowledge assistants  
+- Customer support bots  
+- Research and learning tools  
+
+It enables GenAI systems to act as **reliable decision-support tools**, not just text generators.
 
 ---
 
